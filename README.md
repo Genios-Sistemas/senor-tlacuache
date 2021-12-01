@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Genios-Sistemas/senor-tlacuache/main/assets/img/logo.png?token=AWXTJKXAEJIL7UIPFBZJ2NLBU6WHK)
+![alt text](https://raw.githubusercontent.com/Genios-Sistemas/senor-tlacuache/main/assets/img/logo.png?token=AWXTJKR3AHXGBVABJC3F2HLBU7GKY)
 <br/><br/>
 # Señor Tlacuache<br/>
 El Señor tlacuache es una tienda de antigüedades ubicada en Tulum, Quintana Roo.<br/><br/>
