@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Genios-Sistemas/senor-tlacuache/main/assets/img/logo.png?token=AWXTJKR3AHXGBVABJC3F2HLBU7GKY)
+![image](https://raw.githubusercontent.com/Genios-Sistemas/senor-tlacuache/main/assets/img/logo.png?token=AWXTJKR3AHXGBVABJC3F2HLBU7GKY)
 <br/><br/>
 # Señor Tlacuache<br/>
 El Señor tlacuache es una tienda de antigüedades ubicada en Tulum, Quintana Roo.<br/><br/>
@@ -184,7 +184,7 @@ composer require stripe/stripe-php
 El script te mandara a esta página ya preconstruida con los datos del productos, precio y cantidad; lo unico que se puede modificar son 
 los métodos de pago y los datos de entrada.<br>
 
-![alt text](https://raw.githubusercontent.com/Genios-Sistemas/senor-tlacuache/main/milti-md/Stripe-checkout.jpeg?token=AWXTJKTSOJ2YFFVAG2S5C3TBU7BAQ)<br/><br/>
+![image](https://user-images.githubusercontent.com/95368362/144300555-5939674f-577a-4f81-b88f-3285b56280c1.png)<br/><br/>
 # ¿qué hay que hacer ahora?<br/>
 Debido por cuestiones de tiempo no se pudo completar de manera satisfactoria la nueva versión, esto se debe a que hay tareas que no se pudieron concretar, 
 en los cuales se encuentra
