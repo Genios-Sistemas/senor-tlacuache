@@ -210,6 +210,10 @@ para continuar con los scripts para crear cookies hacer las pruebas necesarias d
 Debido a que el script de la tienda recoge imágenes del ERP hay cierto tiempo que demora en cargarlas, debido a eso la distribución de los productos 
 se despliega por default, por lo que cuando se despliegan las imágenes estas se empiezan a encima unos entre otros, por lo que no se ha podido encontrar una solución.
 <br/> <br/> <br/>
+##### Para el siguiente administrador de la cuenta<br/>
+poner el repositorio como privado para mayor control de quien configura el codigo, de ser necesario mandar invitacion a los colaboradores del proyecto
+<br/> <br/> <br/>
+
 ###### Repositorio creado por Luis David Zarate y Jose Arturo Valenzuela
 ###### Texto creado por Jose Arturo Valenzuela
 
