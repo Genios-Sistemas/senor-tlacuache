@@ -194,10 +194,11 @@ en los cuales se encuentra
 - Corrección de bug grafico de la tienda
 
 ### Soluciones propuestas
-#### Integración de strike<br/>
+#### Integración de stripe<br/>
 Debido a que el checkout de Stripe maneja productos internos hay que ingresar productos externos de manera manual, debido a que la estructura del script
 no se puede modificar de manera flexible se propuso que mediante un `switch` para agregar de 2 a más productos (límite establecido a 6 productos);
-igualmente hay que conseguí la información del carrito hacia el script para que se despliegue el checkout de manera correcta.
+igualmente hay que conseguí la información del carrito hacia el script para que se despliegue el checkout de manera correcta.<br/>
+Igualmente el checkout nose integro en la pagina.
 #### Scripts del carrito <br/>
 Para agregar productos al carrito utilizamos Scripts de js estos scripts están en `assets/js/carting.js` y `assets/js/carito.js`; el primero crea un *stack* en el incono
 de carrito en la barra de navegación, en las últimas actualizaciones del repositorio ocurrió que, los scripts ya no funcionaban, y debido al tiempo ya no se pudieron verificar y corregir.
